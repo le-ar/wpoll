@@ -5,13 +5,17 @@
         "name": "le-ar",
         "url": "https://github.com/le-ar/"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/le-ar/wpoll"
+    },
     "keywords": [
         "worker threads",
         "poll",
         "node",
         "thread poll"
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "build/index.js",
     "license": "MIT",
     "scripts": {
