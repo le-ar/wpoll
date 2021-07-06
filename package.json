@@ -15,7 +15,7 @@
         "node",
         "thread poll"
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "main": "build/index.js",
     "license": "MIT",
     "scripts": {
